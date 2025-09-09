@@ -8,7 +8,7 @@ Este proyecto es una interfaz de inicio de sesión (login) para el sistema de KF
 - HTML5
 - CSS3 / SCSS
 - JavaScript (vanilla o framework como React/Vue si aplica)
-- (Opcional: Bootstrap / Tailwind)
+- Bootstrap
 
 ---
 
